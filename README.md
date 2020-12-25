@@ -1,4 +1,4 @@
-### This is a small basic Login Page created for my Blog.
+### This is a basic small Login Page created for my Blog.
 
 ### Find me on Instagram: @electrifying_codes
 
